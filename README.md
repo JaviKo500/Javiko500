@@ -45,7 +45,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiko500&layout=compact&theme=vision-friendly-dark)](https://github.com/javiko500/flutter_cinemapedia)
 
-[![javiko500's GitHub stats](https://github-readme-stats.vercel.app/api?username=javiko500&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![javiko500's GitHub stats](https://github-readme-stats.vercel.app/api?username=javiko500&theme=dark)](https://github.com/javiko500/flutter_cinemapedi)
 
 
 ---
