@@ -47,5 +47,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![javiko500's GitHub stats](https://github-readme-stats.vercel.app/api?username=javiko500&theme=dark)](https://github.com/javiko500/flutter_cinemapedia)
 
-
+<a href="https://app.daily.dev/javiko"><img src="https://api.daily.dev/devcards/v2/HGo851KDJ.png?type=wide&r=ng8" width="652" alt="Jonnathan Gutierrez's Dev Card"/></a>
 ---
