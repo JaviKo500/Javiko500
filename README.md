@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ecuador.
+I am a Full Stack Developer from Ecuador.
 
 - 🔭 I’m working as a Software dev and contributing to frontend and backend for building web applications.
 
