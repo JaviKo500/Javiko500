@@ -26,7 +26,7 @@ I am a Full Stack Developer from Ecuador.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,prisma,angular,html,js,css,ts,dart,flutter,firebase,mongodb,mysql,postgres,gitlab,github,git,docker,netlify,postman,vscode,npm,yarn,notion" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,prisma,angular,html,js,css,ts,dart,flutter,firebase,mongodb,mysql,postgres,gitlab,github,git,docker,netlify,postman,vscode,npm,yarn,notion" />
   </a>
 </p>
 
