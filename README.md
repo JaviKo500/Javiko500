@@ -1,4 +1,4 @@
-﻿<p align="center"><img src="https://media.giphy.com/media/0sm28bFYsixfuwV70C/giphy.gif" width="100"/></p>
+﻿<p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ljZXpyZmZ4YzZmc2J6Z3Nidjd3eWo0djNscXVnMDUzNWppd3U1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/javier-gutierrez-70ba43142/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://twitter.com/javiko500"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjaviko500&style=for-the-badge&logo=x&logoColor=white&label=Twitter&labelColor=%23143055&color=%23143055" alt="Twitter Badge"></a>
