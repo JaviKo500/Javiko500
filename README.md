@@ -33,8 +33,7 @@ I am a Full Stack Developer from Ecuador.
 ---
 
 ### 🔥 &nbsp; My Stats :
-
-[![javiko500's GitHub stats](https://github-readme-stats.vercel.app/api?username=javiko500&show_icons=true&theme=dark)](https://github.com/javiko500/flutter_cinemapedia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiko500&layout=compact&theme=vision-friendly-dark)](https://github.com/javiko500/flutter_cinemapedia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiko500&layout=compact&theme=vision-friendly-dark)](https://github.com/javiko500/flutter_cinemapedia)
 
 <a href="https://app.daily.dev/javiko"><img src="https://api.daily.dev/devcards/v2/HGo851KDJ.png?type=wide&r=ng8" width="652" alt="Jonnathan Gutierrez's Dev Card"/></a>
 ---
