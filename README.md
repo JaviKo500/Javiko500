@@ -33,7 +33,24 @@ I am a Full Stack Developer from Ecuador.
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiko500&layout=compact&theme=vision-friendly-dark)](https://github.com/javiko500/flutter_cinemapedia)
+<div width ="100%" display="flex" align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JaviKo500&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JaviKo500&date_format=M%20j%5B%2C%20Y%5D" />
+  <img alt="streak" src="streak.svg" />
+  </picture>
+</div>
 
-<a href="https://app.daily.dev/javiko"><img src="https://api.daily.dev/devcards/v2/HGo851KDJ.png?type=wide&r=ng8" width="652" alt="Jonnathan Gutierrez's Dev Card"/></a>
+<div width ="100%" display="flex" align="center">
+  <p align="center">
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiko500&layout=compact&theme=vision-friendly-dark)](https://github.com/javiko500/flutter_cinemapedia)
+  </p>
+</div>
+
+<div width ="100%" display="flex" align="center">
+  <a href="https://app.daily.dev/javiko"><img src="https://api.daily.dev/devcards/v2/HGo851KDJ.png?type=wide&r=ng8" width="450" alt="Jonnathan Gutierrez's Dev Card"/></a>
+</div>
+
 ---
+
