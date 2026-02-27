@@ -42,15 +42,9 @@ I am a Full Stack Developer from Ecuador.
 </div>
 
 <div width ="100%" display="flex" align="center">
-  <p align="center">
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiko500&layout=compact&theme=vision-friendly-dark)](https://github.com/javiko500/flutter_cinemapedia)
-  </p>
-</div>
-
-<div width ="100%" display="flex" align="center">
   <a href="https://app.daily.dev/javiko"><img src="https://api.daily.dev/devcards/v2/HGo851KDJ.png?type=wide&r=ng8" width="450" alt="Jonnathan Gutierrez's Dev Card"/></a>
 </div>
 
 ---
+
 
