@@ -41,6 +41,8 @@ I am a Full Stack Developer from Ecuador.
   </picture>
 </div>
 
+
+
 <div width ="100%" display="flex" align="center">
   <a href="https://app.daily.dev/javiko"><img src="https://api.daily.dev/devcards/v2/HGo851KDJ.png?type=wide&r=ng8" width="450" alt="Jonnathan Gutierrez's Dev Card"/></a>
 </div>
